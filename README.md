@@ -30,12 +30,10 @@
 
 ### 🛢️ Databases
 - LocalStorage
-- (Learning) MySQL
 
 ### 🧰 Tools & Platforms
 - Git & GitHub
 - VS Code
-- Linux / Windows
 
 ---
 
