@@ -40,7 +40,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrinSX77&show_icons=true&theme=dark)
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?PedrinSX77=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
