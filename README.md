@@ -1,3 +1,7 @@
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
+
 # 👋 Hi, I'm Pedro Henrique
 
 💻 Developer passionate about JavaScript and Web Development  
@@ -42,8 +46,3 @@
 ## 📫 Contact
 🌐 Website: https://odysseycloud.com.br  
 💬 Discord: pedrinsx777
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
