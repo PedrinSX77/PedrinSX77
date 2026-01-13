@@ -5,6 +5,7 @@
 # 👋 Hi, I'm Pedro Henrique
 
 💻 Developer passionate about JavaScript and Web Development learning every day more JavaScript
+
 🚀 CEO at Odyssey Cloud  
 📚 Currently learning Advanced JavaScript & Node.js  
 🌎 From Brazil 🇧🇷
