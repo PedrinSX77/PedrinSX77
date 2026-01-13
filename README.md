@@ -1,6 +1,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
+![Html](https://img.shields.io/badge/Html-red?logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS-purple?logo=css&logoColor=white)
 
 # 👋 Hi, I'm Pedro Henrique
 
