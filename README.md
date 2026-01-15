@@ -4,48 +4,92 @@
 ![Html](https://img.shields.io/badge/Html-red?logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS-purple?logo=css&logoColor=white)
 
-# 👋 Hi, I'm Pedro Henrique
+# 👋 Olá, eu sou o Pedro Henrique (PedrinSX77)
 
-💻 Developer passionate about JavaScript and Web Development learning every day more JavaScript
+Sou estudante de desenvolvimento **Web Full Stack em formação**, com foco principal em **JavaScript**, criando projetos reais para aprender backend, frontend e integração entre sistemas.
 
-🚀 CEO at Odyssey Cloud  
-📚 Currently learning Advanced JavaScript & Node.js  
-🌎 From Brazil 🇧🇷
+Atualmente estou consolidando minha base em **Node.js, APIs REST, autenticação e frontend com JavaScript puro**, antes de avançar para frameworks como React.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Sobre mim
 
-### 💻 Languages
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+- 💻 Desenvolvedor Web em formação
+- 📚 Aprendizado focado em projetos práticos
+- 🧠 Estudando arquitetura backend, autenticação e fluxo de aplicações reais
+- 🎯 Objetivo: me tornar **Full Stack Developer**
 
-### ⚙️ Backend
-- Node.js (Basic)
-- Express.js (Basic)
+---
+
+## 🛠️ Tecnologias que eu já utilizei em projetos
 
 ### 🌐 Frontend
-- Vanilla JS
-- Responsive Design
-- DOM Manipulation
+- HTML5
+- CSS3 (layouts responsivos, dark theme)
+- JavaScript (DOM, eventos, Fetch API)
+- Consumo de APIs externas
+- Comunicação frontend ↔ backend
 
-### 🛢️ Databases
-- LocalStorage
-- MySQL (Basic)
+### ⚙️ Backend
+- Node.js
+- Express.js
+- APIs REST
+- Autenticação com JWT
+- Criação de rotas (GET, POST)
+- Middlewares de autenticação
+- Lógica de login e registro
 
-### 🧰 Tools & Platforms
-- Git & GitHub
-- VS Code
+### 🗄️ Conceitos e práticas
+- Separação de responsabilidades
+- Controllers e middlewares
+- Fluxo de autenticação
+- Associação de dados ao usuário logado
+- Estruturação de projetos
+- Git e GitHub (versionamento)
 
 ---
 
-## 📈 GitHub Stats
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?PedrinSX77=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## 📌 Projetos em destaque
 
+### 🔗 Encurtador de Links com Autenticação
+Sistema completo com:
+- Login e registro de usuários
+- Autenticação JWT
+- Criação de links encurtados
+- Links associados ao usuário
+- Listagem de links criados
+- Redirecionamento automático
+
+➡️ Backend + Frontend integrados
+
+### 💱 Conversor de Moedas
+- Consumo de API externa
+- Conversão em tempo real
+- Interface simples e responsiva
+- JavaScript puro
+
+### 📝 Lista de Tarefas
+- Manipulação do DOM
+- CRUD no frontend
+- Organização de código
+- Estilização customizada
 
 ---
 
-## 📫 Contact
-🌐 Website: https://odysseycloud.com.br  
-💬 Discord: pedrinsx777
+## 📈 Em aprendizado atualmente
+
+- Node.js avançado
+- Organização de projetos backend
+- Segurança (JWT, validações)
+- React (próximo passo)
+- Boas práticas de API
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/PedrinSX77
+
+---
+
+⭐ Sempre aberto a aprender, errar e evoluir através de projetos reais.
