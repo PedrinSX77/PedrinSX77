@@ -22,8 +22,8 @@
 - CSS3
 
 ### ⚙️ Backend
-- Node.js (learning)
-- Express.js (learning)
+- Node.js (Basic)
+- Express.js (Basic)
 
 ### 🌐 Frontend
 - Vanilla JS
@@ -32,6 +32,7 @@
 
 ### 🛢️ Databases
 - LocalStorage
+- MySQL (Basic)
 
 ### 🧰 Tools & Platforms
 - Git & GitHub
