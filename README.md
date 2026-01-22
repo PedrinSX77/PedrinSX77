@@ -9,7 +9,7 @@
 
 Sou estudante de desenvolvimento **Web Full Stack em formação**, com foco principal em **JavaScript**, criando projetos reais para aprender backend, frontend e integração entre sistemas.
 
-Atualmente estou consolidando minha base em **Node.js, APIs REST, autenticação e frontend com JavaScript puro**, antes de avançar para frameworks como React.
+Atualmente estou consolidando minha base em **Node.js, APIs REST, autenticação e frontend com JavaScript puro**, agora aprendendo React para avançar em Next.JS.
 
 ---
 
