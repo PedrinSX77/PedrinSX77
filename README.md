@@ -28,6 +28,7 @@ Atualmente estou consolidando minha base em **Node.js, APIs REST, autenticação
 - HTML5
 - CSS3 (layouts responsivos, dark theme)
 - JavaScript (DOM, eventos, Fetch API)
+- React (Básico)
 - Consumo de APIs externas
 - Comunicação frontend ↔ backend
 
