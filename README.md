@@ -1,8 +1,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript\&logoColor=black)
 ![React](https://img.shields.io/badge/React-blue?logo=react\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?logo=openjdk\&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-darkgreen?logo=springboot\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git\&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-red?logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-purple?logo=css3\&logoColor=white)
@@ -11,7 +9,7 @@
 
 Sou desenvolvedor **Full Stack em formação**, com foco em **backend e construção de aplicações completas**, conectando frontend e backend através de APIs reais.
 
-Tenho experiência prática com **JavaScript (Node.js + React)** e atualmente estou evoluindo para o ecossistema Java com foco em backend profissional.
+Tenho experiência prática com **JavaScript (Node.js + React)** e atualmente estou evoluindo para o foco em backend profissional com Node.js para partir para Java.
 
 ---
 
@@ -20,7 +18,7 @@ Tenho experiência prática com **JavaScript (Node.js + React)** e atualmente es
 * 💻 Desenvolvedor focado em **backend e integração de sistemas**
 * 📚 Aprendizado baseado em **projetos reais**
 * 🧠 Estudando arquitetura, APIs REST e boas práticas
-* ⚡ Evoluindo de Node.js → Java + Spring Boot
+* ⚡ Evoluindo Node.js
 * 🎯 Objetivo: atuar como **Backend / Full Stack Developer**
 
 ---
@@ -42,18 +40,8 @@ Tenho experiência prática com **JavaScript (Node.js + React)** e atualmente es
 * Node.js
 * Express.js
 * APIs REST
-* Autenticação com JWT
-* Middlewares
-* Estruturação de rotas e controllers
 
 ---
-
-### ☕ Backend (em evolução)
-
-* Java (POO, Collections, lógica de sistema)
-* Estruturação de CRUD em memória
-* Boas práticas de orientação a objetos
-* Estudando: Spring Boot (APIs REST)
 
 ---
 
@@ -69,18 +57,6 @@ Tenho experiência prática com **JavaScript (Node.js + React)** e atualmente es
 ---
 
 ## 📌 Projetos em destaque
-
-### 🔗 Encurtador de Links com Autenticação
-
-Sistema completo com:
-
-* Login e registro de usuários
-* Autenticação com JWT
-* Criação de links encurtados
-* Associação de links ao usuário
-* Listagem e redirecionamento
-
-➡️ Aplicação full stack com integração real
 
 ---
 
