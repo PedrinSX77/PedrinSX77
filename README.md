@@ -59,38 +59,31 @@ Route → Controller → Service → Prisma → PostgreSQL
 
 ## 📊 Skill Dashboard
 
-> Autoavaliação baseada nos conceitos que já estudei e apliquei em projetos.
+> Autoavaliação baseada em prática e projetos desenvolvidos.
 
-### Backend
+### ⚙️ Backend
 
 ```mermaid
 xychart-beta
-    title "Backend Skills"
-    x-axis ["JavaScript", "Node", "Express", "REST", "Async", "Arquitetura", "Erros", "Prisma", "PostgreSQL", "Migrations"]
-    y-axis "Proficiência (%)" 0 --> 100
-    bar [82, 80, 83, 85, 82, 82, 78, 72, 68, 72]
+    title "Backend"
+    x-axis ["JavaScript", "Node.js", "Express", "REST API", "Prisma", "PostgreSQL"]
+    y-axis "Nível (%)" 0 --> 100
+    bar [82, 80, 83, 85, 72, 68]
 ```
 
-### Frontend
+### 🌐 Frontend
 
 ```mermaid
 xychart-beta
-    title "Frontend Skills"
+    title "Frontend"
     x-axis ["JavaScript", "React", "HTML/CSS", "APIs"]
-    y-axis "Proficiência (%)" 0 --> 100
+    y-axis "Nível (%)" 0 --> 100
     bar [80, 72, 78, 80]
 ```
 
-| Nota | Proficiência |
-|:---:|:---|
-| A++ | 95–100% |
-| A+ | 90–94% |
-| A | 80–89% |
-| A- | 75–79% |
-| B+ | 70–74% |
-| B | 60–69% |
-| C | 40–59% |
-| D | <40% |
+<sub>
+A++ 95–100 · A+ 90–94 · A 80–89 · A− 75–79 · B+ 70–74 · B 60–69
+</sub>
 
 ---
 
