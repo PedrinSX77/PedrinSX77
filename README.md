@@ -57,36 +57,6 @@ Route → Controller → Service → Prisma → PostgreSQL
 
 ---
 
-## 📊 Skill Dashboard
-
-> Autoavaliação baseada em prática e projetos desenvolvidos.
-
-### ⚙️ Backend
-
-```mermaid
-xychart-beta
-    title "Backend"
-    x-axis ["JavaScript", "Node.js", "Express", "REST API", "Prisma", "PostgreSQL"]
-    y-axis "Nível (%)" 0 --> 100
-    bar [82, 80, 83, 85, 72, 68]
-```
-
-### 🌐 Frontend
-
-```mermaid
-xychart-beta
-    title "Frontend"
-    x-axis ["JavaScript", "React", "HTML/CSS", "APIs"]
-    y-axis "Nível (%)" 0 --> 100
-    bar [80, 72, 78, 80]
-```
-
-<sub>
-A++ 95–100 · A+ 90–94 · A 80–89 · A− 75–79 · B+ 70–74 · B 60–69
-</sub>
-
----
-
 ## 🧠 Conhecimentos aplicados
 
 - APIs REST e CRUD completo
