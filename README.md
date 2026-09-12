@@ -88,10 +88,13 @@ Atualmente estudando e aplicando:
 ## Infraestrutura
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-`Linux` `Proxmox` `VPS` `Nginx` `Docker` `Cloudflare` `DNS` `TCP/IP` `Virtualização`
+`Linux` `Proxmox` `VPS` `Nginx` `Cloudflare` `DNS` `TCP/IP` `Virtualização`
+
+### Em aprendizado
+
+`Docker (básico)`
 
 ---
 
