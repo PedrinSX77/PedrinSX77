@@ -1,363 +1,163 @@
 <div align="center">
 
-# 👋 Olá, eu sou Pedro Henrique
+# Olá, eu sou Pedro Henrique 👋
 
-### Backend / Full Stack Developer em formação
+### Backend Developer em formação
 
-Desenvolvendo aplicações com **JavaScript, Node.js, Express, React, Prisma e PostgreSQL**, com foco em **backend, APIs REST e arquitetura de aplicações**.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em **Java e desenvolvimento Backend**.
 
-Atualmente também estou aprofundando minha base em **Java e Programação Orientada a Objetos**.
+<p>
+  <a href="https://www.linkedin.com/in/pedro-morschbacher/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-PedrinSX77-181717?style=for-the-badge&logo=github)](https://github.com/PedrinSX77)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-morschbacher/)
+  <a href="https://github.com/PedrinSX77">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor Backend / Full Stack em formação.
-
-Meu aprendizado é orientado principalmente à prática: desenvolvimento de projetos, debugging, arquitetura, banco de dados, integração entre sistemas e evolução gradual de aplicações reais.
-
-Atualmente trabalho principalmente com aplicações utilizando:
-
-```text
-Frontend
-   ↓
-API REST
-   ↓
-Route
-   ↓
-Middleware
-   ↓
-Controller
-   ↓
-Service
-   ↓
-ORM
-   ↓
-PostgreSQL
-```
-
-Além de desenvolvimento, possuo experiência prática com **Linux, servidores, virtualização, redes e infraestrutura**, adquirida através de projetos próprios e ambientes reais.
-
-Também estou estudando **Java**, com foco em construir uma base sólida em lógica, Programação Orientada a Objetos e fundamentos da linguagem antes de avançar para frameworks.
-
-🎯 **Objetivo:** conquistar minha primeira oportunidade profissional em desenvolvimento, com foco principal em **Backend**.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas — UNISUAM**
+- ☕ Atualmente aprofundando meus conhecimentos em **Java e Programação Orientada a Objetos**
+- ⚙️ Experiência prática com **APIs REST, PostgreSQL e desenvolvimento Full Stack**
+- 🌐 Frontend com **JavaScript e React**, avançando posteriormente para **TypeScript**
+- 🐧 Experiência prática com **Linux, servidores e infraestrutura**
+- 🎯 Objetivo profissional: atuar como **Desenvolvedor Backend Java**
 
 ---
 
-# 🛠️ Tecnologias
+## 🚀 Tecnologias
 
-## Backend
+### Backend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express,postgres,prisma">
+</p>
 
-`Node.js` `Express` `REST APIs` `Prisma ORM` `PostgreSQL` `JWT` `Async/Await` `Promises` `Migrations`
+### Frontend
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css">
+</p>
 
-## Java
+### Ferramentas & Infraestrutura
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-Atualmente estudando e aplicando:
-
-`Java` `POO` `Classes` `Objetos` `Métodos` `Static` `Encapsulamento` `Estruturas de Controle`
-
-> Construindo uma base sólida na linguagem antes de avançar para o ecossistema Spring.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode">
+</p>
 
 ---
 
-## Frontend
+## 📚 Atualmente estudando
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Java • Programação Orientada a Objetos • Collections • Estruturas de Dados**
 
-`React` `JavaScript` `HTML5` `CSS3` `CSS Modules` `Context API` `Fetch API`
+### Próximos passos
 
----
-
-## Infraestrutura
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-`Linux` `Proxmox` `VPS` `Nginx` `Cloudflare` `DNS` `TCP/IP` `Virtualização`
-
-### Em aprendizado
-
-`Docker (básico)`
+**Java → Spring Boot → PostgreSQL → Testes → Docker**
 
 ---
 
-## Ferramentas
+## 📌 Projetos em destaque
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 📡 Uptime Monitor
 
-`Git` `GitHub` `npm` `VS Code` `PostgreSQL` `Debugging`
+Plataforma Full Stack desenvolvida em equipe para monitoramento de disponibilidade, latência e histórico de serviços.
 
----
+**Stack:**
 
-# 🧠 Conhecimentos aplicados
+`React` `Node.js` `Express` `PostgreSQL` `Prisma` `JWT`
 
-- APIs REST
-- CRUD
-- Métodos HTTP
-- Status HTTP
-- Request / Response
-- Route Params e Query Params
-- Middlewares
-- JWT
-- Autenticação e autorização
-- Cookies HttpOnly
-- Promises
-- Async / Await
-- Programação assíncrona
-- Arquitetura em camadas
-- Separação de responsabilidades
-- Validação de dados
-- Tratamento de erros
-- PostgreSQL
-- Prisma ORM
-- Banco de dados relacional
-- Primary Keys e Foreign Keys
-- Relacionamentos `1:N`
-- Migrations
-- Persistência de dados
-- Git e GitHub
-- Trabalho colaborativo com branches
-- Debugging e troubleshooting
+**Principais recursos:**
 
----
-
-# 📌 Projetos em destaque
-
-## 📡 Uptime Monitor
-
-Aplicação Full Stack desenvolvida em equipe para monitoramento de disponibilidade e latência de serviços.
-
-[![Repository](https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github)](https://github.com/ruanitoow/Uptime-Monitor/tree/feature/monitor-details)
-
-### Stack
-
-`React` `Node.js` `Express` `Prisma` `PostgreSQL` `JWT`
-
-### Funcionalidades
-
-- Cadastro e autenticação de usuários
-- JWT armazenado em cookie HttpOnly
-- Proteção de rotas
-- Autorização baseada no usuário autenticado
-- Criação e gerenciamento de monitores
 - Monitoramento HTTP, HTTPS e TCP
 - Worker executado em background
 - Registro de status e latência
+- Autenticação com JWT e cookies HttpOnly
 - Histórico de checagens
 - API REST
-- PostgreSQL + Prisma ORM
+- PostgreSQL + Prisma
 - Arquitetura em camadas
 
-### Arquitetura Backend
-
-```text
-Request
-   ↓
-Route
-   ↓
-Middleware
-   ↓
-Controller
-   ↓
-Service
-   ↓
-Prisma
-   ↓
-PostgreSQL
-```
-
-### Fluxo do Worker
-
-```text
-Banco de Dados
-     ↓
-Monitores ativos
-     ↓
-HTTP / HTTPS / TCP Checker
-     ↓
-Status + Latência
-     ↓
-Check
-     ↓
-PostgreSQL
-```
-
-O projeto é utilizado para aprofundar conhecimentos em backend, autenticação, banco de dados, programação assíncrona, arquitetura e desenvolvimento colaborativo.
+🔗 [Ver repositório](https://github.com/ruanitoow/Uptime-Monitor)
 
 ---
 
-## 🗄️ CRUD API — Node.js
+### ☕ Curso Java
 
-API REST desenvolvida com Node.js, Express, Prisma e PostgreSQL.
+Repositório dedicado ao registro da minha evolução em Java através de estudos, exercícios e desafios práticos.
 
-[![Repository](https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github)](https://github.com/PedrinSX77/CRUD-Api-Node.js)
+Atualmente aplicando conceitos como:
 
-### Principais recursos
+- Programação Orientada a Objetos
+- Classes e objetos
+- Encapsulamento
+- Construtores
+- Sobrecarga
+- `static`
+- Arrays
+- Arrays de objetos
+- Lists
+- Lambdas e Streams
+- Matrizes
+- Estruturas de controle
 
-- CRUD completo
-- Node.js + Express
-- PostgreSQL
-- Prisma ORM
-- Arquitetura em camadas
+🔗 [Ver repositório](https://github.com/PedrinSX77/Curso-Java)
+
+---
+
+### 🗄️ CRUD API — Node.js
+
+API REST desenvolvida para prática de arquitetura backend, persistência e integração com banco de dados.
+
+**Stack:**
+
+`Node.js` `Express` `Prisma` `PostgreSQL`
+
+**Principais conceitos aplicados:**
+
+- CRUD
 - Controllers e Services
 - Middlewares
-- Tratamento centralizado de erros
-- Filtros por Query Params
-- Relacionamento entre entidades
-- `Category 1:N Product`
+- Query Params
+- Tratamento de erros
+- Relacionamentos entre entidades
 - Migrations
 - Async / Await
-- ES Modules
 
-```text
-Cliente
-  ↓
-Express
-  ↓
-Route
-  ↓
-Controller
-  ↓
-Service
-  ↓
-Prisma
-  ↓
-PostgreSQL
-```
+🔗 [Ver repositório](https://github.com/PedrinSX77/CRUD-Api-Node.js)
 
 ---
 
-## ☕ Estudos de Java
+## 🐧 Infraestrutura
 
-Repositório dedicado à minha evolução na linguagem Java.
+Além do desenvolvimento, possuo experiência prática com:
 
-[![Repository](https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github)](https://github.com/PedrinSX77/Curso-Java)
-
-Atualmente estudando:
-
-- Sintaxe Java
-- Tipos de dados
-- Estruturas condicionais
-- `for`, `while` e `do-while`
-- Debugging
-- Métodos
-- Classes e objetos
-- Programação Orientada a Objetos
-- `this`
-- `static`
-- `final`
-- `toString()`
-- Encapsulamento
-
-Meu objetivo é construir uma base forte na linguagem antes de avançar para desenvolvimento backend utilizando Java e Spring.
+`Linux` `Proxmox` `VPS` `Nginx` `Cloudflare` `DNS` `Redes` `Virtualização`
 
 ---
 
-# 🖥️ Infraestrutura e projetos técnicos
+## 📫 Contato
 
-Além do desenvolvimento web, também tenho experiência prática com infraestrutura.
+<p>
+  <a href="https://www.linkedin.com/in/pedro-morschbacher/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro_Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-### Hyflip Network
-
-Projeto envolvendo:
-
-- Linux
-- Proxmox
-- Servidores virtuais
-- Proxy
-- MySQL
-- Redes
-- Cloudflare
-- DNS
-- Túneis
-- Troubleshooting
-- Operação de múltiplos serviços
-
-### Odyssey Cloud
-
-Experiência prática com ambientes de hosting e infraestrutura:
-
-- VPS
-- Linux
-- DNS
-- Cloudflare
-- Deploy de serviços
-- Gerenciamento de servidores
-- Painéis de hospedagem
-- Troubleshooting
-
----
-
-# 📚 Atualmente estudando
-
-```text
-Java
- ↓
-Programação Orientada a Objetos
- ↓
-Collections
- ↓
-Exceptions
- ↓
-Generics
- ↓
-Interfaces
- ↓
-Banco de dados com Java
- ↓
-Testes
- ↓
-Spring Boot
-```
-
-Paralelamente continuo evoluindo meus conhecimentos em:
-
-```text
-Backend
- ↓
-Arquitetura
- ↓
-APIs
- ↓
-Banco de Dados
- ↓
-Segurança
- ↓
-Testes
- ↓
-Deploy
-```
-
----
-
-# 📫 Contato
-
-**GitHub:** [@PedrinSX77](https://github.com/PedrinSX77)
-
-**LinkedIn:** [Pedro Henrique](https://www.linkedin.com/in/pedro-morschbacher/)
+  <a href="https://github.com/PedrinSX77">
+    <img src="https://img.shields.io/badge/GitHub-PedrinSX77-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-### 🚀 Código, prática e evolução contínua.
+### Código, prática e evolução contínua.
 
 </div>
